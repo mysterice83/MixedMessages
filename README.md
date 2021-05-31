@@ -1,7 +1,7 @@
 # MixedMessages
 ## GERE Week 6 Group Project 
 #
-__Specify:____
+**Specify:**
   * MixedMessages() takes no arguments.
   * MixedMessages stores at least three groups of 'things' in the corresponding number of arrays.
   * The 'things' comprise persons, places, and objects (in that order), corresponding to the 'things' of interest in the board game 'Clue'.
